@@ -1,4 +1,4 @@
-Currency Converter
+##Currency Converter
 This is a simple currency converter program written in Java that allows users to convert between Moldovan Leu (MDL), Romanian Leu (RON), US Dollar (USD), Great British Pound (GBP), Ukrainian Hryvnia (UAH), Russian Ruble (RUB), Swiss Franc (CHF), and Euro (EUR).
 
 Installation
