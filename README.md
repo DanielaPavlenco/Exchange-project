@@ -18,5 +18,3 @@
 ### Contributing:
 * This project is not open to contributions. However, feel free to clone the repository and modify the code for personal or educational purposes.
 
-### License:
-* This project is licensed under the MIT License.
